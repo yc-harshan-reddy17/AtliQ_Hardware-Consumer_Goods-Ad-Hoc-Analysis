@@ -1,0 +1,1 @@
+# AtliQ_Hardware-Consumer_Goods-Ad-Hoc-Analysis
