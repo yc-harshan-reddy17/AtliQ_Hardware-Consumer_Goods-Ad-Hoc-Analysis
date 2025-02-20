@@ -89,4 +89,4 @@ Ad-Hoc Requests – Includes all the questions.
 
 All Ad-Hoc SQL Queries – Contains all the answers.
 
-Atliq Hardware Ad-Hoc Insights Presentation PDF – Contains the presentation.
+Atliq Hardware Ad-Hoc Insights PDF – Contains the presentation.
