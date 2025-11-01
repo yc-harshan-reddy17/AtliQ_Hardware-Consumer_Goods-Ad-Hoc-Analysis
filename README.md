@@ -17,7 +17,7 @@ The 'gdb023' (AtliQ_hardware database) was provided to me to work on and it incl
 1. fact_pre_invoice_deductions: contains pre-invoice deductions information for each product
 1. fact_gross_price: contains gross price information for each product
 1. fact_manufacturing_cost: contains the cost incurred in the production of each product
-1. fact_sales_monthly: contains monthly sales data for each product.
+1. fact_sales_monthly: contains monthly sales data for each product
 
 This is the data model I made for the visualization section of Power BI:-
 ![ad hoc data model](https://github.com/yc-harshan-reddy17/AtliQ_Hardware-Consumer_Goods-Ad-Hoc-Analysis/blob/main/Ad-Hoc%20SQL%20Queries/Data%20model.png)
